@@ -2,7 +2,6 @@ package com.example.healthcalculator
 
 fun clasificarIMC(peso: Double, altura: Double): String {
     if (altura <= 0.0) return "Datos inválidos"
-
     val imc = peso / (altura * altura)
     return when {
         imc < 18.5 -> "Bajo peso"

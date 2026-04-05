@@ -76,7 +76,6 @@ Column(modifier = modifier.padding(16.dp)) {
             resultado.contains("Sobrepeso") -> Color(0xFFF57C00)
             resultado.contains("Peso normal") -> Color(0xFF2E7D32)
             resultado.contains("Bajo peso") -> Color(0xFF1976D2)
-
             else -> Color.Black
         }
     )}

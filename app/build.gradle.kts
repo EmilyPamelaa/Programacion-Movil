@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.laboratorio4_emilymoreno"
+    namespace = "com.example.healthcalculator"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.laboratorio4_emilymoreno"
+        applicationId = "com.example.healthcalculator"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

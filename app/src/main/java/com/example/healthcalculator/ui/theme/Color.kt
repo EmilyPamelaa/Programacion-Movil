@@ -1,4 +1,4 @@
-package com.example.laboratorio4_emilymoreno.ui.theme
+package com.example.healthcalculator.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
